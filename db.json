@@ -1,30 +1,153 @@
-{"products":[{"id":1,"first_name":"Sandhill crane","last_name":"Eire"},
-{"id":2,"first_name":"Pheasant, common","last_name":"Thoughtbeat"},
-{"id":3,"first_name":"Mountain lion","last_name":"Riffwire"},
-{"id":4,"first_name":"Lizard, collared","last_name":"Bubblemix"},
-{"id":5,"first_name":"Leopard, indian","last_name":"Yambee"},
-{"id":6,"first_name":"Herring gull","last_name":"Babbleset"},
-{"id":7,"first_name":"Hoary marmot","last_name":"Divavu"},
-{"id":8,"first_name":"Bulbul, black-fronted","last_name":"Miboo"},
-{"id":9,"first_name":"Whale, southern right","last_name":"Blogtag"},
-{"id":10,"first_name":"Jackal, asiatic","last_name":"Zoozzy"},
-{"id":11,"first_name":"Sheep, red","last_name":"Flashpoint"},
-{"id":12,"first_name":"Little heron","last_name":"Lazz"},
-{"id":13,"first_name":"Deer, savannah","last_name":"Lazz"},
-{"id":14,"first_name":"Glider, squirrel","last_name":"Camido"},
-{"id":15,"first_name":"Flicker, field","last_name":"Vitz"},
-{"id":16,"first_name":"Sifaka, verreaux's","last_name":"Fiveclub"},
-{"id":17,"first_name":"Great skua","last_name":"Quatz"},
-{"id":18,"first_name":"Magellanic penguin","last_name":"Zoonder"},
-{"id":19,"first_name":"Northern elephant seal","last_name":"Gabtype"},
-{"id":20,"first_name":"Red-knobbed coot","last_name":"Roombo"},
-{"id":21,"first_name":"Sifaka, verreaux's","last_name":"Browsezoom"},
-{"id":22,"first_name":"Oribi","last_name":"Vinder"},
-{"id":23,"first_name":"Cat, kaffir","last_name":"Pixonyx"},
-{"id":24,"first_name":"Fisher","last_name":"Browsetype"},
-{"id":25,"first_name":"Asian water buffalo","last_name":"Edgeblab"},
-{"id":26,"first_name":"Squirrel, eurasian red","last_name":"Gabtune"},
-{"id":27,"first_name":"Brolga crane","last_name":"Twinder"},
-{"id":28,"first_name":"Tapir, brazilian","last_name":"Skaboo"},
-{"id":29,"first_name":"Macaw, green-winged","last_name":"Brainbox"},
-{"id":30,"first_name":"Red kangaroo","last_name":"Aimbu"}]}
+{
+    "products": [{
+            "id": 1,
+            "nama": "Francolin, coqui",
+            "category": "Voonix"
+        },
+        {
+            "id": 2,
+            "nama": "Bee-eater, nubian",
+            "category": "Feedfish"
+        },
+        {
+            "id": 3,
+            "nama": "Black-winged stilt",
+            "category": "Voonix"
+        },
+        {
+            "id": 4,
+            "nama": "Parrot, hawk-headed",
+            "category": "Realfire"
+        },
+        {
+            "id": 5,
+            "nama": "Yellow-billed hornbill",
+            "category": "Browsecat"
+        },
+        {
+            "id": 6,
+            "nama": "Capuchin, brown",
+            "category": "Demizz"
+        },
+        {
+            "id": 7,
+            "nama": "Lilac-breasted roller",
+            "category": "Kwimbee"
+        },
+        {
+            "id": 8,
+            "nama": "Otter, african clawless",
+            "category": "Skyvu"
+        },
+        {
+            "id": 9,
+            "nama": "House crow",
+            "category": "Leexo"
+        },
+        {
+            "id": 10,
+            "nama": "Snake, buttermilk",
+            "category": "Browsecat"
+        },
+        {
+            "id": 11,
+            "nama": "Saddle-billed stork",
+            "category": "Skiptube"
+        },
+        {
+            "id": 12,
+            "nama": "Pheasant, common",
+            "category": "Trudeo"
+        },
+        {
+            "id": 13,
+            "nama": "Blue and yellow macaw",
+            "category": "Livepath"
+        },
+        {
+            "id": 14,
+            "nama": "Skua, great",
+            "category": "Dabfeed"
+        },
+        {
+            "id": 15,
+            "nama": "Eastern white pelican",
+            "category": "Demizz"
+        },
+        {
+            "id": 16,
+            "nama": "Musk ox",
+            "category": "Divape"
+        },
+        {
+            "id": 17,
+            "nama": "Colobus, white-mantled",
+            "category": "Kare"
+        },
+        {
+            "id": 18,
+            "nama": "Southern elephant seal",
+            "category": "Ooba"
+        },
+        {
+            "id": 19,
+            "nama": "Common pheasant",
+            "category": "Camido"
+        },
+        {
+            "id": 20,
+            "nama": "Indian mynah",
+            "category": "Browsebug"
+        },
+        {
+            "id": 21,
+            "nama": "Boa, mexican",
+            "category": "Jabbersphere"
+        },
+        {
+            "id": 22,
+            "nama": "Elegant crested tinamou",
+            "category": "Avaveo"
+        },
+        {
+            "id": 23,
+            "nama": "Snake, eastern indigo",
+            "category": "Jabbersphere"
+        },
+        {
+            "id": 24,
+            "nama": "Jackal, black-backed",
+            "category": "Thoughtstorm"
+        },
+        {
+            "id": 25,
+            "nama": "Lemming, collared",
+            "category": "Photolist"
+        },
+        {
+            "id": 26,
+            "nama": "Southern black-backed gull",
+            "category": "Jetpulse"
+        },
+        {
+            "id": 27,
+            "nama": "Rat, desert kangaroo",
+            "category": "Youspan"
+        },
+        {
+            "id": 28,
+            "nama": "Crow, house",
+            "category": "Realbridge"
+        },
+        {
+            "id": 29,
+            "nama": "Common waterbuck",
+            "category": "Agivu"
+        },
+        {
+            "id": 30,
+            "nama": "Robin, kalahari scrub",
+            "category": "Gabtype"
+        }
+    ]
+}
